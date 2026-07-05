@@ -29,3 +29,12 @@ The dashboard provides insights into:
 ## Dataset
 
 Brazilian E-Commerce Public Dataset (Olist)
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- KPI Reporting
