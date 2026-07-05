@@ -2,9 +2,10 @@
 
 ## Overview
 
-This project presents an interactive Power BI dashboard built using an e-commerce dataset.
+This project presents an interactive Power BI dashboard built using a Brazilian e-commerce dataset.
 
 The dashboard provides insights into:
+
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -23,8 +24,8 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Preview](dashboard.png)
 
 ## Dataset
 
-Brazilian E-Commerce Public Dataset
+Brazilian E-Commerce Public Dataset (Olist)
